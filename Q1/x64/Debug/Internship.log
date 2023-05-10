@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Internship.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Solution.cpp
+C:\Users\90506\source\repos\Internship\Solution.cpp(92,17): error C2664: 'Node *makeFunc(TypeTag,Node *,Node *)': cannot convert argument 1 from 'int' to 'TypeTag'
+C:\Users\90506\source\repos\Internship\Solution.cpp(92,26): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+C:\Users\90506\source\repos\Internship\Solution.cpp(36,7): message : see declaration of 'makeFunc'
+C:\Users\90506\source\repos\Internship\Solution.cpp(92,17): message : while trying to match the argument list '(int, int, int)'
+C:\Users\90506\source\repos\Internship\Solution.cpp(93,18): error C2664: 'Node *makeFunc(TypeTag,Node *,Node *)': cannot convert argument 1 from 'int' to 'TypeTag'
+C:\Users\90506\source\repos\Internship\Solution.cpp(93,27): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+C:\Users\90506\source\repos\Internship\Solution.cpp(36,7): message : see declaration of 'makeFunc'
+C:\Users\90506\source\repos\Internship\Solution.cpp(93,18): message : while trying to match the argument list '(int, int, int)'
+C:\Users\90506\source\repos\Internship\Solution.cpp(98,17): error C2664: 'Node *makeFunc(TypeTag,Node *,Node *)': cannot convert argument 1 from 'int' to 'TypeTag'
+C:\Users\90506\source\repos\Internship\Solution.cpp(98,26): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+C:\Users\90506\source\repos\Internship\Solution.cpp(36,7): message : see declaration of 'makeFunc'
+C:\Users\90506\source\repos\Internship\Solution.cpp(98,17): message : while trying to match the argument list '(int, int, int)'
+C:\Users\90506\source\repos\Internship\Solution.cpp(99,18): error C2664: 'Node *makeFunc(TypeTag,Node *,Node *)': cannot convert argument 1 from 'int' to 'TypeTag'
+C:\Users\90506\source\repos\Internship\Solution.cpp(99,27): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
+C:\Users\90506\source\repos\Internship\Solution.cpp(36,7): message : see declaration of 'makeFunc'
+C:\Users\90506\source\repos\Internship\Solution.cpp(99,18): message : while trying to match the argument list '(int, int, int)'

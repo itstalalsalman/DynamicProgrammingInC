@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+C:\Users\90506\source\repos\Internship\Solution.cpp(37,32): error C2440: '=': cannot convert from 'int' to 'TypeTag'
+C:\Users\90506\source\repos\Internship\Solution.cpp(37,32): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or parenthesized function-style cast)
